@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="23.375256">
+    <testcase classname="form submition application" name="fill the form" time="23.375256">
+        <system-out>
+            <![CDATA[Given Load 1 row data from Excel............................................passed
+And Fill the form...........................................................passed
+And Submit the form.........................................................passed
+Then verify the dropdown....................................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
